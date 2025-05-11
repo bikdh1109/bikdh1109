@@ -4,6 +4,9 @@
 
 ![Programmers Badge](https://raw.githubusercontent.com/bikdh1109/Programmers_Badge_Generator/main/result/result.svg)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bikdh)](https://solved.ac/bikdh/)
+
+
 <!--
 **bikdh1109/bikdh1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
