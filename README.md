@@ -2,6 +2,8 @@
 
 ### 김도현입니다.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikdh1109&show_icons=true&theme=radical)
+
 ![Programmers Badge](https://raw.githubusercontent.com/bikdh1109/Programmers_Badge_Generator/main/result/result.svg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bikdh)](https://solved.ac/bikdh/)
