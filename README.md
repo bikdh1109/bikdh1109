@@ -32,9 +32,23 @@
 
 </div>
 
-![Programmers Badge](https://raw.githubusercontent.com/bikdh1109/Programmers_Badge_Generator/main/result/result.svg)
+## 🏆 Problem Solving & Badges
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bikdh)](https://solved.ac/bikdh/)
+<div align="center">
+
+<!-- Programmers Badge -->
+<a href="https://github.com/bikdh1109/Programmers_Badge_Generator" target="_blank">
+  <img src="https://raw.githubusercontent.com/bikdh1109/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" />
+</a>
+
+<br/><br/>
+
+<!-- Solved.ac Badge -->
+<a href="https://solved.ac/bikdh/" target="_blank">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bikdh" alt="Solved.ac Profile: bikdh" />
+</a>
+
+</div>
 
 
 <!--
