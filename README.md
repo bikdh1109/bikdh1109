@@ -32,7 +32,7 @@
 
 ## 🏆 Problem Solving & Badges
 
-<div align="center">
+<div>
 
 <!-- Programmers Badge -->
 <a href="https://github.com/bikdh1109/Programmers_Badge_Generator" target="_blank">
