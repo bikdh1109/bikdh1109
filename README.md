@@ -2,8 +2,6 @@
 
 ### 김도현입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikdh1109&show_icons=true&theme=radical)
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -44,6 +42,10 @@
 <a href="https://solved.ac/bikdh/" target="_blank">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bikdh" alt="Solved.ac Profile: bikdh" />
 </a>
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=bikdh1109&show_icons=true&theme=radical" alt="bikdh1109's GitHub Stats" />
 
 </div>
 
