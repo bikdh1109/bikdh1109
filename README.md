@@ -40,20 +40,35 @@
 
 ---
 
-## 🏆 Problem Solving & Badges
+## 📊 Algorithm & Stats
 
 <div align="center">
 
-<a href="https://github.com/bikdh1109/Programmers_Badge_Generator" target="_blank">
-  <img src="https://raw.githubusercontent.com/bikdh1109/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" />
-</a>
-
-<a href="https://solved.ac/bikdh/" target="_blank">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bikdh" alt="Solved.ac Profile: bikdh" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bikdh1109&show_icons=true&theme=radical" alt="GitHub Stats" />
+<table>
+  <tr>
+    <td align="center">
+      <strong>🚌 Top Languages</strong><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikdh1109&layout=compact&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <strong>🏆 GitHub Stats</strong><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=bikdh1109&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>📛 Programmers Badge</strong><br/>
+      <a href="https://github.com/bikdh1109/Programmers_Badge_Generator" target="_blank">
+        <img src="https://raw.githubusercontent.com/bikdh1109/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>💡 Solved.ac</strong><br/>
+      <a href="https://solved.ac/bikdh/" target="_blank">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bikdh" alt="Solved.ac Profile: bikdh" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
