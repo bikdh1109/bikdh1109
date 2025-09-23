@@ -6,7 +6,7 @@
 - [자립 준비 청년 금융·정서지원 플랫폼 : 동행](https://github.com//KB-hackathon-JGDL)  
   - 맞춤형 금융, 카드 상품 추천 서비스 제공
   - 멘토링 서비스 
-  - **Tech Stack**: Spring Boot, JPA, MySQL, AWS RDS  
+  - **Tech Stack**: Spring Boot, JPA, MySQL
 
 - [청약 정보 도우미 : 지비](https://github.com/PJT-16-3)  
   - 청약 계좌, 가점제 기반 당첨 확률 계산 서비스
@@ -16,7 +16,7 @@
 ---
 
 ## 🏆 Awards
-- 2025 KB IT's Your Life 해커톤 (2025.09.10~ 2025.09.12) **장려상**  
+- 2025 KB IT's Your Life 해커톤 (2025.09.10~ 2025.09.12) : **장려상**  
 
 ## 🎓 Education
 
