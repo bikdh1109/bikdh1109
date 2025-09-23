@@ -1,4 +1,35 @@
-<h1 align="center">Hi there 👋, I'm 김도현</h1>
+## 👨‍💻 About Me
+- 안정적인 데이터 흐름과 효율적인 시스템 설계를 통해 사용자가 신뢰할 수 있는 서비스를 만드는 백엔드 개발자를 꿈꾸는 김도현입니다.
+
+## 💼 Experience
+- **KB IT's Your Life 6기 ** (2025.03.04 ~ 2025.08.21)
+  - Vue,js, Bootstrap 등을 활용한 프론트엔드 구현 및 UI/UX 설계 실습
+  - Java 기반 웹 개발, Spring Framework, SQL, DB 설계 등 백엔드 중심의 소프트웨어 개발 역량 강화
+  - 실무 중심의 과제 수행을 통한 문제 해결력 및 협업 역량 강화 
+
+---
+
+## 🛠 Projects
+- [자립 준비 청년 금융·정서지원 플랫폼 : 동행](https://github.com//KB-hackathon-JGDL)  
+  - 맞춤형 금융, 카드 상품 추천 서비스 제공
+  - 멘토링 서비스 
+  - **Tech Stack**: Spring Boot, JPA, MySQL, AWS RDS  
+
+- [청약 정보 도우미 : 지비](https://github.com/PJT-16-3)  
+  - 청약 계좌, 가점제 기반 당첨 확률 계산 서비스
+  - 청약 단지 주변 인프라 정보 보기 
+  - **Tech Stack**: Java, MyBatis, Vue.js
+
+---
+
+## 🏆 Awards
+- 2025 KB IT's Your Life 해커톤 (2025.09.10~ 2025.09.12) **장려상**  
+
+---
+
+## 🎓 Education
+- 고려대학교 (세종) - 수학과, 컴퓨터 융합 소프트웨어 학과 (학사)
+- 고려대학교 일반대학원 - 컴퓨터 정보학과 (석사) 
 
 ---
 
@@ -31,14 +62,6 @@
 
 </div>
 
----
-
-## 🚌 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikdh1109&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ## 📊 Algorithm & Stats
 
