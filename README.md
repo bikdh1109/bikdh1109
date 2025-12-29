@@ -74,7 +74,9 @@
     </td>
     <td align="center">
       <strong>🏆 GitHub Stats</strong><br/>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bikdh1109&show_icons=true&theme=radical" />
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=bikdh1109" alt="GitHub Stats" />
+      </a>
     </td>
   </tr>
   <tr>
