@@ -62,23 +62,11 @@
 </div>
 
 
-## 📊 Algorithm & Stats
+## 📊 Algorithm
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>🚌 Top Languages</strong><br/>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bikdh1109&layout=compact&theme=tokyonight" />
-    </td>
-    <td align="center">
-      <strong>🏆 GitHub Stats</strong><br/>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=bikdh1109" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
+<table> 
   <tr>
     <td align="center">
       <strong>📛 Programmers Badge</strong><br/>
